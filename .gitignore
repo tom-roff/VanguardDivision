@@ -2,7 +2,7 @@
 # Unreal Engine Generated Files #
 #################################
 Star_Brigade/Build/
-Star_Brigade/Builds
+Star_Brigade/Builds/
 Star_Brigade/Binaries/
 Star_Brigade/DerivedDataCache/
 Star_Brigade/Intermediate/
@@ -13,7 +13,8 @@ Star_Brigade/Saved/
 # Visual Studio Generated Files #
 #################################
 # Cache Directory
-.vs
+Star_Brigade/.vs/
+Star_Brigade/.sp/
 # User Specific Files
 *.rsuser
 *.suo
